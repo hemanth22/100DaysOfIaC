@@ -1,6 +1,5 @@
 # 100 Days of IaC in Azure
 
-Hello CISSP last mile boot camp 
 
 ## Testing 
 
