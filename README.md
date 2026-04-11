@@ -1,5 +1,6 @@
 # 100 Days of IaC in Azure
 
+Hello CISSP Boot Camp Friends!
 
 ## Testing 
 
